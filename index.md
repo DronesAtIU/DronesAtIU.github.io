@@ -12,9 +12,10 @@ These projects include researching and building different craft for the club to
 use and play with, and eventually the club plans to host events, such as drone
 racing, for the public to attend.
 
-Interested? Join our Discord: https://discord.gg/9W5kKGzU56.
+Interested? Join our Discord:
+[https://discord.gg/9W5kKGzU56](https://discord.gg/9W5kKGzU56).
 
-https://beinvolved.indiana.edu/organization/drones
+[https://beinvolved.indiana.edu/organization/drones](https://beinvolved.indiana.edu/organization/drones)
 
 ## Gallery
 
