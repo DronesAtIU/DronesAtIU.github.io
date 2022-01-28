@@ -1,4 +1,4 @@
-![Bruce and Clifford](Pics/Bruce and Clifford.JPEG)
+![Bruce_and_Clifford](Pics/Bruce and Clifford.JPEG)
 ![Bruce](Pics/Bruce.JPG)
 ![DTR Match](Pics/DTR Match GMUvsPenn.JPG)
 ![Fall '21 Team](Pics/Fall21 Team.JPG)
