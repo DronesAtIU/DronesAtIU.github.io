@@ -2,4 +2,4 @@
 ![Bruce](Pics/Bruce.JPG)
 ![DTR Match](Pics/DTRMatchGMUvsPenn.JPG)
 ![Fall '21 Team](Pics/Fall21Team.JPG)
-![High Bay](Pics/High Bay.JPG)
+![High Bay](Pics/HighBay.JPG)
