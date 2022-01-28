@@ -6,7 +6,7 @@ Include links to beinvolved and discord
 
 ## Gallery
 
-Pictures here
+Click [here](Gallery.md) to view some photos of our club's work!
 
 ## Projects
 
@@ -25,4 +25,3 @@ Build guides
 ## Tutorials
 
 Links to useful resources, other useful stuff
-
